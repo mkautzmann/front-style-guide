@@ -370,11 +370,11 @@ As únicas exceções se aplicam a caracteres com significado especial para o HT
 
 Não recomendado:
 
-O simbolo atual para o Euro é `&ldquo;&eur;&rdquo;`.
+O simbolo atual para o Euro é `&ldquo;&euro;&rdquo;`.
 
 Recomendado:
 
-O simbolo atual para o Euro é `£`.
+O simbolo atual para o Euro é `€`.
 
 ### Tipo de atributo
 
